@@ -1,13 +1,16 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #9A5865;
+	color:#FEFCFD;
 }
+
 
 #header
 {
-	background: #ccc;
+	background: #000000;
 	padding: 20px;
+	<p> <img src=” 2012. jpg” a l t=”Une Image ” /> </p>
 }
 
 #header h1 { margin: 0; }
@@ -16,7 +19,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #000000;
 }
 
 #navigation ul
